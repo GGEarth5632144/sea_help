@@ -84,6 +84,16 @@ The file structure for this repository is as follows:
     - downcase_it.py
   - ex08
     - aff_rev_params.py
+  - ex09
+    - scan_it.py
+  - ex10
+    - parameter_matching.py
+  - ex11
+    - count_it.py
+  - ex12
+    - string_are_arrays.py
+  - ex13
+    - append_it.py
   
   - cell06
 
